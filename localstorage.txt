@@ -1,0 +1,19 @@
+
+            // Store data in localStorage
+        //     localStorage.setItem("Fullname", name);
+        //     localStorage.setItem("gender", gender);
+        //     localStorage.setItem("dob", day + month + year);
+        //     localStorage.setItem("indian", indian);
+        //     localStorage.setItem("reservation", reservation);
+        
+        //     var getname = localStorage.getItem("Fullname");
+        //     var getgender = localStorage.getItem("gender");
+        //     var birthdate = localStorage.getItem("dob");
+        //     var storedIndian = localStorage.getItem("indian");
+        //     var getReservation = localStorage.getItem("reservation");
+        //     console.log(getname);
+        //     console.log(getgender);
+        //     console.log(birthdate);
+        //     console.log(storedIndian);
+        //     console.log(getReservation);
+        // 
